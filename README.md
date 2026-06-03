@@ -13,19 +13,17 @@ Electrical and Information Engineering Undergraduate
 - Machine Learning
 
 
+
 <h3>📫 Connect with Me</h3>
 
-
-
 <p align="left">
-<a href="mailto:ravinthiranmuththukumar@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:ravinthiranmuththukumar@gmail.com" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="40" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/muththukumar-ravinthiran-234054210/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/muththukumar-ravinthiran-234054210/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
-</p>
 
 <a href="https://www.hackerrank.com/dashboard" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="hackerrank" height="40" width="40" />
