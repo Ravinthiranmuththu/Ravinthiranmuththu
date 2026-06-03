@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ravinthiran Muththukumar</h1>
 
-<!--
-**Ravinthiranmuththu/Ravinthiranmuththu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Electrical and Information Engineering Undergraduate
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Blockchain Technology
+- Smart Grids & Local Energy Markets
+- IoT Security
+- Machine Learning
+
+### 📫 Contact Me
+- Email: ravinthiranmuththukumar@gmail.com
+- LinkedIn: www.linkedin.com/in/ravinthiranmuththukumar
+
+### 🚀 Current Projects
+- Blockchain-Based Local Energy Market
+- Secure Communication Architecture for ESP32-Based IoT Devices
+- Human Activity Recognition using Deep Learning
+
+### ⚡ Languages & Tools
