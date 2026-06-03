@@ -22,3 +22,6 @@ Electrical and Information Engineering Undergraduate
 - Human Activity Recognition using Deep Learning
 
 ### ⚡ Languages & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,react,flutter,django,solidity,mysql,git,firebase,matlab" />
+</p>
