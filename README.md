@@ -26,8 +26,13 @@ Electrical and Information Engineering Undergraduate
 <img src="https://skillicons.dev/icons?i=python,cpp,c,react,flutter,django,solidity,mysql,git,firebase,matlab" />
 </p>
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RavinthiranMuththu&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravinthiranmuththu&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinthiranMuththu&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravinthiranmuththu&layout=compact&theme=tokyonight" />
+</p>
