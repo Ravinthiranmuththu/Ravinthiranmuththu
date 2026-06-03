@@ -11,7 +11,8 @@ Electrical and Information Engineering Undergraduate
 - Smart Grids & Local Energy Markets
 - IoT Security
 - Machine Learning
-
+- High Performance Computing
+- Robotics and Automation
 
 
 <h3>📫 Connect with Me</h3>
@@ -34,6 +35,7 @@ Electrical and Information Engineering Undergraduate
 - Blockchain-Based Local Energy Market
 - Secure Communication Architecture for ESP32-Based IoT Devices
 - Human Activity Recognition using Deep Learning
+- Parallel Canny Edge Detection using OpenMP,PosixThreads and MPI,CUDA
 
 ### ⚡ Languages & Tools
 <p align="left">
@@ -41,3 +43,12 @@ Electrical and Information Engineering Undergraduate
 </p>
 
 
+### 🚀 HPC & Blockchain
+
+<p align="left">
+<img src="https://img.shields.io/badge/OpenMP-00599C?style=for-the-badge&logo=openmp&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pthreads-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MPI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hyperledger_Besu-121D33?style=for-the-badge"/>
+</p>
