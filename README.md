@@ -12,9 +12,22 @@ Electrical and Information Engineering Undergraduate
 - IoT Security
 - Machine Learning
 
-### 📫 Contact Me
-- Email: ravinthiranmuththukumar@gmail.com
-- LinkedIn: www.linkedin.com/in/ravinthiranmuththukumar
+
+<h3>📫 Connect with Me</h3>
+
+<p align="left">
+<a href="mailto:ravinthiranmuththukumar@gmail.com" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="40" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/muththukumar-ravinthiran-234054210/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/dashboard" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="hackerrank" height="40" width="40" />
+</a>
+</p>
 
 ### 🚀 Current Projects
 - Blockchain-Based Local Energy Market
@@ -26,8 +39,4 @@ Electrical and Information Engineering Undergraduate
 <img src="https://skillicons.dev/icons?i=python,cpp,c,react,flutter,django,solidity,mysql,git,firebase,matlab" />
 </p>
 
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RavinthiranMuththu&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinthiranMuththu&layout=compact&theme=tokyonight)
